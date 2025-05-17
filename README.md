@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate for openSource
 - 📫 Follow me on github
-- 😄 Pronouns: ...
+- 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
 <!---
