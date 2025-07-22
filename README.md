@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate for openSource
 - 📫 Follow me on github
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i am great
 
 <!---
 N0tstgr/N0tstgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
