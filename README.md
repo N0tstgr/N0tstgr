@@ -2,7 +2,7 @@
 - 👀 I build  things that create a huge impact on humanity
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate for openSource
-- 📫 Follow me on github
+- 📫 Follow me on github & Twitter
 - 😄 Pronouns: he is great
 - ⚡ True fact: i am great
 
