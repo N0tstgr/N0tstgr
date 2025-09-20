@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N0tstgr
+- 👋 Hi, I’m @Vikash
 - 👀 I build  things that create a huge impact on humanity
 - 🌱 I’m currently learning everything that needs to change the world
 - 💞️ I’m looking to collaborate for openSource
